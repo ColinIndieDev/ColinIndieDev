@@ -26,6 +26,10 @@ I also started making things with Arduino like a traffic light with LEDs and a D
 
 I also share my progress on YouTube, rarely but sometimes on itch.io if I made a game which can be played on web (with Emscripten).
 
+## Skills
+
+<img src="C.png" width="200" alt="Description"><img src="OpenGL.png" width="300" alt="Description"><img src="CXX.png" width="300" alt="Description">
+
 ## My "Roadmap"
 
 2022 - Scratch \
