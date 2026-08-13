@@ -26,7 +26,7 @@ I also started making things with Arduino like a traffic light with LEDs and a D
 
 I also share my progress on YouTube, rarely but sometimes on itch.io if I made a game which can be played on web (with Emscripten).
 
-## Experience (from best)
+## Experience (left best)
 ## Languages
 <img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="nasm.png" width="300" alt="Description">    <img src="Java.png" width="240" alt="Description">    <img src="C-Sharp.png" width="155" alt="Description">
 ## Graphics APIs
