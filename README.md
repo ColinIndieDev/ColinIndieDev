@@ -26,14 +26,8 @@ I also started making things with Arduino like a traffic light with LEDs and a D
 
 I also share my progress on YouTube, rarely but sometimes on itch.io if I made a game which can be played on web (with Emscripten).
 
-## Skills
-
-<img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="OpenGL.png" width="300" alt="Description">
-
-- **2022:**         Scratch
-- **2023:**         C# and Unity Game Engine 4
-- **May 2025:**     C++ and Raylib
-- **October 2025:**     C++ and OpenGL 3.3
-- **January 2026:**     C and OpenGL 3.3
-- **May 2026:**     Arduino (C++)
-- **June 2026:**    C and Vulkan 1.4
+## Experience (from best)
+## Languages
+<img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="nasm.png" width="300" alt="Description">
+## Graphics APIs
+<img src="OpenGL.png" width="300" alt="Description">
