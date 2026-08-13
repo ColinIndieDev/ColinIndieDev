@@ -28,6 +28,6 @@ I also share my progress on YouTube, rarely but sometimes on itch.io if I made a
 
 ## Experience (from best)
 ## Languages
-<img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="nasm.png" width="300" alt="Description">
+<img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="nasm.png" width="300" alt="Description">    <img src="Java.png" width="240" alt="Description">    <img src="C-Sharp.png" width="155" alt="Description">
 ## Graphics APIs
-<img src="OpenGL.png" width="300" alt="Description">
+<img src="OpenGL.png" width="300" alt="Description">    <img src="Vulkan.png" width="400" alt="Description">
