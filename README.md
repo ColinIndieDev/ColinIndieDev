@@ -1,40 +1,98 @@
-# Hello World!
+<div align="center">
 
-```
-            .-"""-.
-           '       \
-          |,.  ,-.  |
-          |()L( ()| |
-          |,'  `".| |
-          |.___.',| `
-         .j `--"' `  `.
-        / '        '   \
-       / /          `   `.
-      / /            `    .
-     / /              l   |
-    . ,               |   |
-    ,"`.             .|   |
- _.'   ``.          | `..-'l
-|       `.`,        |      `.
-|         `.    __.j         )
-|__        |--""___|      ,-'
-   `"--...,+""""   `._,.-'  
-```
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<h1>ColinDev</h1>
+<h2>Low level developer</h2>
+<p>A young graphics programmer (and low level enjoyer)</p>
 
-Hey, my name is Colin (17) and I am still going to school (and university too do not ask how). Nevertheless I found my hobby in programming and tech which I spend a lot or even all in my free time. Most people do CS because of the money but not me - I love it, am very talented and good at it.
-Especially low level programming, so I used C++ and now C for graphics programming, data structures from scratch, neural networks and more!
-Here, I will share my progress and code, feel free to have a peak at what I do!
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/210385640?u=7746c5b9b9dc4f5269fb43d824e7704885beeae2&amp;v=4" width="180" alt="ColinDev GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-My goal is to make my OpenGL library for gamedev fully from C++ to C + the Minecraft Clone I made with C++ earlier.
-Also I am trying to build my own std library from scratch with C too and with all that making cool projects f.e. games!
-Now I firstly need to get very good and mastering the C programming language with Vim Motions for …Vim on Gentoo Linux (btw).
-I also started making things with Arduino like the Wemos D1 mini or Arduino Mega Board. I even made a 3D renderer on the microcontroller with a display shield.
-As long as I actually time, I also share my progress on YouTube, rarely but sometimes on itch.io if I made a game which can be played on web (with Emscripten).
+<h2>Summary</h2>
 
-## Stats
-![badge](https://github-readme-stats.hackclub.dev/api/wakatime?username=77891&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-## Experiences
-## Languages
-<img src="C.png" width="150" alt="Description">    <img src="CXX.png" width="150" alt="Description">    <img src="nasm.png" width="300" alt="Description">    <img src="Java.png" width="240" alt="Description">    <img src="C-Sharp.png" width="155" alt="Description">
-## Graphics APIs
-<img src="OpenGL.png" width="300" alt="Description">    <img src="Vulkan-API.png" width="400" alt="Description">
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>Role</h3><p>Product-minded developer · C++ · C · GLSL</p></td>
+<td width="50%" valign="top"><h3>Activity</h3><p>359 contributions · 132 active days</p></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ColinDev GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Best projects</h2>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&repos=colinindiedev%2FColinDev-C-Projects%2Ccolinindiedev%2FMultiplayer-Game%2Ccolinindiedev%2FHello-Vulkan%2Ccolinindiedev%2FCPL&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&repos=colinindiedev%2FColinDev-C-Projects%2Ccolinindiedev%2FMultiplayer-Game%2Ccolinindiedev%2FHello-Vulkan%2Ccolinindiedev%2FCPL&v=recruiter-projects-1&mode=dark" width="100%" alt="ColinDev selected projects" />
+</picture>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/Multiplayer-Game">Multiplayer-Game</a></h3><p>My attempt to make my first multiplayer game with CPL and ENet</p><p><sub>C </sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/Hello-Vulkan">Hello-Vulkan</a></h3><p>Attempt with Vulkan API</p><p><sub>C</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/CPL">CPL</a></h3><p>An OpenGL gamedev library written in C</p><p><sub>C++ </sub></p></td>
+
+<td width="25%" valign="top">
+<h3><a href="https://github.com/ColinIndieDev/ColinDev-C-Projects">ColinDev-C-Projects</a></h3>
+<p>A collection of libraries and headers I wrote entirely in C</p>
+<p><sub>C</sub></p>
+            
+</tr>
+</table>
+
+<h2>Skills</h2>
+
+<p>(on Github)</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ColinDev technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>65% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>GLSL</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>CMake</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Assembly</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<p>(on Hackatime)</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-stack-1&mode=light](https://github-readme-stats.hackclub.dev/api/wakatime?username=77891&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=77891&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" width="100%" alt="ColinDev technology stack" />
+</picture>
+</p>
+
+<h2>Activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=colinindiedev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210385640%3Fu%3D7746c5b9b9dc4f5269fb43d824e7704885beeae2%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ColinDev contribution activity" />
+</picture>
+</p>
+
+<hr />
