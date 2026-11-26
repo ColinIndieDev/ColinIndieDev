@@ -31,7 +31,7 @@
 </picture>
 </p>
 
-<h2>Best projects</h2>
+<h2>Few of many projects</h2>
 
 <table width="100%">
 <tr>
