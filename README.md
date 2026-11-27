@@ -68,16 +68,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>C++</strong><br /><sub>65% of public code</sub></td>
-<td width="20%" align="center"><strong>C</strong><br /><sub>24% of public code</sub></td>
-<td width="20%" align="center"><strong>GLSL</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>CMake</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Assembly</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
-
 <p>(on Hackatime)</p>
 <p align="center">
 <picture>
