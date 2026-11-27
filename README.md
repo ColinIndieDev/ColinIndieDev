@@ -48,7 +48,7 @@
 <tr>
 <td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/Multiplayer-Game">Multiplayer-Game</a></h3><p>My attempt to make my first multiplayer game with CPL and ENet</p><p><sub>C </sub></p></td>
 <td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/Hello-Vulkan">Hello-Vulkan</a></h3><p>Attempt with Vulkan API</p><p><sub>C</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/CPL">CPL</a></h3><p>An OpenGL gamedev library written in C</p><p><sub>C++ </sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/ColinIndieDev/CPL">CPL</a></h3><p>An OpenGL gamedev library written in C</p><p><sub>C</sub></p></td>
 
 <td width="25%" valign="top">
 <h3><a href="https://github.com/ColinIndieDev/ColinDev-C-Projects">ColinDev-C-Projects</a></h3>
