@@ -15,12 +15,11 @@
 </table>
 </div>
 
-<h2>Summary</h2>
+<h2>Profile</h2>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3>Role</h3><p>Product-minded developer · C++ · C · GLSL</p></td>
-<td width="50%" valign="top"><h3>Activity</h3><p>359 contributions · 132 active days</p></td>
+<td width="100%" valign="top"><h3>Role</h3><p>Product-minded developer · C · C++ · GLSL</p></td>
 </tr>
 </table>
 
